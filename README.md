@@ -12,7 +12,7 @@ This is a feature complete login and checkout API client written in Go. Please n
 
 ### Installation
 
-1. 
+1. Get the repository:
 ```bash
 go get github.com/Johnw7789/bestbuy-checkout-api
 ```

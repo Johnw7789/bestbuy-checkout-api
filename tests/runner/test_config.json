@@ -1,0 +1,45 @@
+{
+  "general": {
+    "proxy": "",
+    "userAgent": "",
+    "akamaiApiKey": ""
+  },
+  "product": {
+    "skuId": ""
+  },
+  "user": {
+    "email": "",
+    "password": "",
+    "secret2FA": "",
+    "phoneNumber": ""
+  },
+  "shipping": {
+    "firstName": "",
+    "lastName": "",
+    "address1": "",
+    "address2": "",
+    "city": "",
+    "stateCode": "",
+    "zipCode": ""
+  },
+  "billing": {
+    "firstName": "",
+    "lastName": "",
+    "address1": "",
+    "address2": "",
+    "city": "",
+    "stateCode": "",
+    "zipCode": ""
+  },
+  "payment": {
+    "cardNumber": "",
+    "expMonth": "",
+    "expYear": "",
+    "cvv": ""
+  },
+  "testing": {
+    "dryRun": false,
+    "testType": "checkout",
+    "logLevel": "info"
+  }
+}

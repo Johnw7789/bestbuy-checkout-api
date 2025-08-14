@@ -14,7 +14,7 @@ This is a feature complete login and checkout API client written in Go. Please n
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Johnw7789/bestbuy-checkout-api
 cd bestbuy-checkout-api
 ```
 

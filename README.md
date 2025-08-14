@@ -22,8 +22,6 @@ go get github.com/Johnw7789/bestbuy-checkout-api
 go mod tidy
 ```
 
-3. Configure your test settings in `tests/runner/test_config.json`
-
 ### Basic Usage
 
 The full checkout flow follows a three step process:

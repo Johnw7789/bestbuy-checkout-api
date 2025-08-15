@@ -81,7 +81,7 @@ if err != nil {
     log.Fatal("Failed to create checkout client:", err)
 }
 
-// Step 4: Add item to cart and handle queue
+// Step 4: Add item to cart and handle queue if one is present
 tokenId, a2cId, checkoutData, err := checkoutClient.CartItem()
 if err != nil && err.Error() != "no queue found" {
     log.Fatal("Failed to complete cart process:", err)
